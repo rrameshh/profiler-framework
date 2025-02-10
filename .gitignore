@@ -1,0 +1,16 @@
+profiler/__pycache__
+.vscode
+output_gemma_int8
+venv
+AutoGPTQ
+.pyenv
+gemma_7b
+gemma_7b_weights_folder
+huggingface_cache
+output_gemma_int8
+output_gemma_int4
+output_gemma_fp8
+sparse_logs
+utils
+weights_folder
+output
