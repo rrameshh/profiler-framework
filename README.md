@@ -23,7 +23,7 @@ pip install torch transformers matplotlib numpy bitsandbytes
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/rrameshh/profiler-framework.git
 cd profiler-framework
 ```
 
